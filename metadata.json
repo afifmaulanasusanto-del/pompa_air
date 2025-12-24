@@ -1,0 +1,8 @@
+
+{
+  "name": "Aquaflow Smart Monitor",
+  "description": "A high-performance IoT dashboard for monitoring water levels, controlling pumps, and analyzing sensor telemetry with AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
